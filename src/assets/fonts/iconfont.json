@@ -1,0 +1,58 @@
+{
+  "id": "2417584",
+  "name": "back stage",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1350136",
+      "name": "用户管理",
+      "font_class": "Management",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "10164128",
+      "name": "权限管理",
+      "font_class": "quanxianguanli",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "18486348",
+      "name": "商品管理",
+      "font_class": "shangpinguanli",
+      "unicode": "e7aa",
+      "unicode_decimal": 59306
+    },
+    {
+      "icon_id": "18683577",
+      "name": "订单管理",
+      "font_class": "dingdanguanli",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "2129918",
+      "name": "数据统计",
+      "font_class": "shujutongji",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "7588130",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "19685920",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e9f0",
+      "unicode_decimal": 59888
+    }
+  ]
+}
